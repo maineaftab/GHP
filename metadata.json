@@ -2,5 +2,6 @@
   "name": "God Hates Pride",
   "symbol": "GHP",
   "description": "Proverbs 8:13, To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
-  "image": "https://raw.githubusercontent.com/maineaftab/GHP/main/fred.jpg"
+  "image": "https://raw.githubusercontent.com/maineaftab/GHP/main/fred.jpg",
+  "uri": "https://raw.githubusercontent.com/maineaftab/GHP/refs/heads/main/metadata.json"
 }
