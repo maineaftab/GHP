@@ -2,5 +2,9 @@
   "name": "God Hates Pride",
   "symbol": "GHP",
   "description": "50 percent donated to the Matthew Shepard Foundation",
-  "image": "https://raw.githubusercontent.com/maineaftab/GHP/main/fred.jpg"
+  "image": "https://raw.githubusercontent.com/maineaftab/GHP/main/fred.jpg",
+  "extensions": {
+    "twitter": "https://x.com/GHP_COIN" 
+  }
+  
 }
